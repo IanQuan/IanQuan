@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Quan</h1>
 <h3 align="center">A passionate third year student majoring in Computer Science and Statistics at University of Toronto</h3>
 
-- 🔭 I’m currently working on **CSC384-Intro to AI and CSC311-Intro to ML**
-
-- 🌱 I’m currently learning **React and Node.js**
-
 - 💬 Ask me about **software development / Machine learning**
 
 - 📫 How to reach me **quanian031229@gmail.com**
