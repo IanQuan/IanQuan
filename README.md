@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Quan</h1>
 <h3 align="center">A passionate third year student majoring in Computer Science and Statistics at University of Toronto</h3>
 
-- 💬 Ask me about **software development / Machine learning**
-
 - 📫 How to reach me **quanian031229@gmail.com**
  
 <h3 align="left">Connect with me:</h3>
