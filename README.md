@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Quan</h1>
-<h3 align="center">A passionate third year student majoring in Computer Science and Statistics at University of Toronto</h3>
+<h3 align="center">A Final year student majoring in Computer Science and Statistics at University of Toronto</h3>
 
 - 📫 How to reach me **quanian031229@gmail.com**
  
